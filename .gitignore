@@ -1,0 +1,7 @@
+.DS_Store
+
+# ignore volume mapping by docker
+sonarqube/volumes/*
+jenkins/jenkins_home/*
+
+!*.gitkeep
